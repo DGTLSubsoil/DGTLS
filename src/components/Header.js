@@ -116,13 +116,8 @@ function Header() {
                     <li id="pr-1" className="menu-item-has-children" >
                       <Link href="#" onClick={toggleActive}>Home</Link>
                       <ul className="submenu">
-                        <li  > <Link href="/">Home 1</Link>
-                        </li>
                         <li  >
-                          <Link href="/home2">Home 2</Link>
-                        </li>
-                        <li  >
-                          <Link href="/home3"> Home 3 <span className="badge bg--secondary-color"> New </span>
+                          <Link href="/home3"> Home <span className="badge bg--secondary-color">  </span>
                           </Link>
                         </li>
                       </ul>
