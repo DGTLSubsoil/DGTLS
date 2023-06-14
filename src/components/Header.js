@@ -115,12 +115,9 @@ function Header() {
                   <ul id="menu" className={menu ? 'menu active' : 'menu'}>
                     <li id="pr-1" className="menu-item-has-children" >
                       <Link href="#" onClick={toggleActive}>Home</Link>
-                      <ul className="submenu">
                         <li  >
-                          <Link href="/home3"> Home <span className="badge bg--secondary-color">  </span>
-                          </Link>
+                          <Link href="/home3"> Home </Link>
                         </li>
-                      </ul>
                     </li>
                     <li id="pr-2" className="menu-item-has-children">
                       <Link href="#" onClick={toggleActive}>Project</Link>
