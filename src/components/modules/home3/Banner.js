@@ -18,11 +18,11 @@ function Banner() {
                 data-aos-duration={1000}
               >
                 <h1>
-                  Metaverse Web 3.0 <br /> DEX Launcepad, ICO &amp; INO{" "}
+                  DGTLS <br /> Your control of the world {" "}
                 </h1>
-                <p>Multichain Gaming Ecosystem for IDOs &amp; INOs Pre-Sales</p>
+                <p>Buy, stake, mine, sell</p>
                 <Link href="/project" className="default-btn">
-                  <span>Explore IDOs</span>
+                  <span>Buy GTL</span>
                 </Link>
               </div>
             </div>
