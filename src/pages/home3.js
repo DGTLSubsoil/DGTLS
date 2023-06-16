@@ -58,13 +58,10 @@ const Home3 = () => {
   return (
     <>
       <Banner />
-      <Completed completed={completed} />
       <Work />
-      <CompletedTwo data={data} />
       <Benifits />
       <Token tokenomics={tokenomics} />
       <Roadmap />
-      <Team />
       <FAQ />
       <ApplyToLaunchTwo />
     </>
