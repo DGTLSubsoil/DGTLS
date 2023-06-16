@@ -1,9 +1,7 @@
 import SwiperCore, { Autoplay, Navigation, Pagination } from "swiper";
 import { useEffect, useState } from "react";
 import Banner from "./../components/modules/home3/Banner";
-import Completed from "@/components/modules/home3/Completed";
 import Work from "@/components/modules/home3/Work";
-import CompletedTwo from "@/components/modules/home3/CompletedTwo";
 // import Team from "@/components/modules/home3/Team";
 import FAQ from "@/components/modules/home3/Faq";
 import Roadmap from "@/components/modules/index/Roadmap";
