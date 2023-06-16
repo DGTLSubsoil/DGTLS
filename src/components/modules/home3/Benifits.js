@@ -13,7 +13,7 @@ function Benifits() {
         >
           <div className="section-header__content">
             <div className="section-header__titlebar">
-              <Simple subTitle="Benifits" title="What we offer" />
+              <Simple subTitle="Get total Life" title="What we offer" />
             </div>
           </div>
         </div>
