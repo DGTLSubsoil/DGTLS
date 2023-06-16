@@ -32,10 +32,9 @@ function Benifits() {
                     />
                   </div>
                   <div className="benifit__item-content">
-                    <h4>Cross Chain</h4>
+                    <h4>Digitalization</h4>
                     <p>
-                      Lorem ipsum dolor, sit amet consec tetur adipisicing elit.
-                      Provident eius eaque aspernatur amet
+                    We have digitized all natural resources and transferred them to the blockchain.
                     </p>
                   </div>
                 </div>
@@ -55,10 +54,10 @@ function Benifits() {
                     />
                   </div>
                   <div className="benifit__item-content">
-                    <h4>Stack Pad</h4>
+                    <h4>Own</h4>
                     <p>
-                      Lorem ipsum dolor, sit amet consec tetur adipisicing elit.
-                      Provident eius eaque aspernatur amet
+                      Each person owns all the resources of the world.
+                      We give you the opportunity to own them
                     </p>
                   </div>
                 </div>
@@ -78,10 +77,9 @@ function Benifits() {
                     />
                   </div>
                   <div className="benifit__item-content">
-                    <h4>Multi Layer</h4>
+                    <h4>Subsoil management</h4>
                     <p>
-                      Lorem ipsum dolor, sit amet consec tetur adipisicing elit.
-                      Provident eius eaque aspernatur amet
+                      Buy, sell, stake and farm your assets. No restrictions!
                     </p>
                   </div>
                 </div>
@@ -101,10 +99,9 @@ function Benifits() {
                     />
                   </div>
                   <div className="benifit__item-content">
-                    <h4>Elite Projects</h4>
+                    <h4>Profit</h4>
                     <p>
-                      Lorem ipsum dolor, sit amet consec tetur adipisicing elit.
-                      Provident eius eaque aspernatur amet
+                     Profit at any time and in any quantity. Everything depends on you
                     </p>
                   </div>
                 </div>
