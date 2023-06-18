@@ -42,7 +42,7 @@ function Footer() {
                 </li>
                 <li className="social__item">
                   <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faTwitch} />
+                    <FontAwesomeIcon icon={faGitHub} />
                   </Link>
                 </li>
               </ul>
