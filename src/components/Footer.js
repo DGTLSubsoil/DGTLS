@@ -36,7 +36,7 @@ function Footer() {
                   </Link>
                 </li>
                 <li className="social__item">
-                  <Link href="#" className="social__link">
+                  <Link href="https://discord.gg/FGD7SeGw" className="social__link">
                     <FontAwesomeIcon icon={faDiscord} />
                   </Link>
                 </li>
