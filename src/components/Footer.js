@@ -31,7 +31,7 @@ function Footer() {
               </Link>
               <ul className="social justify-content-center">
                 <li className="social__item">
-                  <Link href="#" className="social__link">
+                  <Link href="https://twitter.com/DGTL_Subsoil" className="social__link">
                     <FontAwesomeIcon icon={faTwitter} />
                   </Link>
                 </li>
