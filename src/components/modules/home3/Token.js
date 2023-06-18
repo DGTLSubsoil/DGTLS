@@ -23,7 +23,7 @@ function Token({ tokenomics }) {
                   <li key={tokenomics.key} className="token__info-list-item">
                     <p className="token__info-list-name">Total Supply</p>
                     <p className="token__info-list-value">
-                      {tokenomics.totalSupply}
+                      10 000 000 000{tokenomics.totalSupply}
                     </p>
                   </li>
 
