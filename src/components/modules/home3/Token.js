@@ -30,54 +30,54 @@ function Token({ tokenomics }) {
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Public sale</p>
                     <p className="token__info-list-value">
-                      ${tokenomics.publicSale}
+                      0.025${tokenomics.publicSale}
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Farming Pool</p>
                     <p className="token__info-list-value">
-                      {tokenomics.farmingPool}%
+                      {tokenomics.farmingPool}20.62%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Staking</p>
                     <p className="token__info-list-value">
-                      {tokenomics.staking}%
+                      {tokenomics.staking}15.3%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Ecosystem</p>
                     <p className="token__info-list-value">
-                      {tokenomics.ecosystem}%
+                      {tokenomics.ecosystem}7.5%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Advisor</p>
                     <p className="token__info-list-value">
-                      {tokenomics.advisor}%
+                      {tokenomics.advisor}7.03%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Private Sale</p>
                     <p className="token__info-list-value">
-                      {tokenomics.privateSale}%
+                      {tokenomics.privateSale}23.45%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Liquidity</p>
                     <p className="token__info-list-value">
-                      {tokenomics.liquidity}%
+                      {tokenomics.liquidity}13.3%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Marketing</p>
                     <p className="token__info-list-value">
-                      {tokenomics.marketing}%
+                      {tokenomics.marketing}15%
                     </p>
                   </li>
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Team</p>
-                    <p className="token__info-list-value">{tokenomics.team}%</p>
+                    <p className="token__info-list-value">{tokenomics.team}5.3%</p>
                   </li>
                 </ul>
               </div>
