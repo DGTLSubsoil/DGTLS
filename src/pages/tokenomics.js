@@ -24,15 +24,15 @@ const Tokenomics = () => {
                   <ul className="token__info-list">
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Total Supply</p>
-                      <p className="token__info-list-value">15,000,000</p>
+                      <p className="token__info-list-value">10 000 000 000</p>
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Public sale</p>
-                      <p className="token__info-list-value">$0.24</p>
+                      <p className="token__info-list-value">$0.024</p>
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Farming Pool</p>
-                      <p className="token__info-list-value">27.3%</p>
+                      <p className="token__info-list-value">20.62%</p>
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Staking</p>
@@ -56,7 +56,7 @@ const Tokenomics = () => {
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Marketing</p>
-                      <p className="token__info-list-value">7.3%</p>
+                      <p className="token__info-list-value">15%</p>
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Team</p>
