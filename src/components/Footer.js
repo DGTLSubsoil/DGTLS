@@ -45,21 +45,6 @@ function Footer() {
                     <FontAwesomeIcon icon={faTwitch} />
                   </Link>
                 </li>
-                <li className="social__item">
-                  <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faInstagram} />
-                  </Link>
-                </li>
-                <li className="social__item">
-                  <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faLinkedinIn} />
-                  </Link>
-                </li>
-                <li className="social__item">
-                  <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faFacebookF} />
-                  </Link>
-                </li>
               </ul>
             </div>
           </div>
