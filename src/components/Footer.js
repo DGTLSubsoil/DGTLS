@@ -22,8 +22,8 @@ function Footer() {
         <div className="footer__wrapper padding-top padding-bottom">
           <div className="container">
             <div className="footer__content text-center">
-              <Link className="mb-4 d-inline-block" href="/">
-                <Image src="/images/logo/logo.png"
+              <Link className="mb-4 d-inline-block" href="/home3">
+                <Image src="/images/logo/logo.svg"
                   width={150}
                   height={55}
                   alt="Logo"
@@ -31,12 +31,12 @@ function Footer() {
               </Link>
               <ul className="social justify-content-center">
                 <li className="social__item">
-                  <Link href="#" className="social__link">
+                  <Link href="https://twitter.com/DGTL_Subsoil" className="social__link">
                     <FontAwesomeIcon icon={faTwitter} />
                   </Link>
                 </li>
                 <li className="social__item">
-                  <Link href="#" className="social__link">
+                  <Link href="https://discord.gg/pcjfuxfCVe" className="social__link">
                     <FontAwesomeIcon icon={faDiscord} />
                   </Link>
                 </li>
@@ -47,7 +47,7 @@ function Footer() {
                 </li>
                 <li className="social__item">
                   <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faInstagram} />
+                    <FontAwesomeIcon icon={<faGithub} />
                   </Link>
                 </li>
                 <li className="social__item">
@@ -67,7 +67,7 @@ function Footer() {
         <div className="footer__copyright">
           <div className="container">
             <div className="text-center py-4">
-              <p className="mb-0">TorkGo © 2023 | All Rights Reserved</p>
+              <p className="mb-0">DGTLS © 2023 | All Rights Reserved</p>
             </div>
           </div>
         </div>
