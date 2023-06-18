@@ -23,7 +23,7 @@ function Footer() {
           <div className="container">
             <div className="footer__content text-center">
               <Link className="mb-4 d-inline-block" href="/">
-                <Image src="/images/logo/logo.png"
+                <Image src="/images/logo/logo.svg"
                   width={150}
                   height={55}
                   alt="Logo"
