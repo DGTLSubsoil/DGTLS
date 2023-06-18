@@ -101,13 +101,13 @@ function Header() {
             <div className="header-primary d-flex flex-wrap justify-content-between align-items-center">
               <div className="brand-logo d-none d-lg-inline-block">
                 <div className="logo">
-                  <Link href="/">
+                  <Link href="/home3">
                     <Image src="/images/logo/logo.svg" width={150} height={55} alt="logo" />
                   </Link>
                 </div>
               </div>
               <div className="header-wrapper justify-content-lg-end">
-                <div className="mobile-logo d-lg-none"> <Link href="/">
+                <div className="mobile-logo d-lg-none"> <Link href="/home3">
                   <Image src="/images/logo/logo.svg" width={150} height={55} alt="logo" />
                 </Link>
                 </div>
