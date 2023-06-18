@@ -47,7 +47,7 @@ function Footer() {
                 </li>
                 <li className="social__item">
                   <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={<faGithub} />
+                    <FontAwesomeIcon icon={faGithub} />
                   </Link>
                 </li>
                 <li className="social__item">
