@@ -22,7 +22,7 @@ function Footer() {
         <div className="footer__wrapper padding-top padding-bottom">
           <div className="container">
             <div className="footer__content text-center">
-              <Link className="mb-4 d-inline-block" href="/">
+              <Link className="mb-4 d-inline-block" href="/home3">
                 <Image src="/images/logo/logo.svg"
                   width={150}
                   height={55}
@@ -67,7 +67,7 @@ function Footer() {
         <div className="footer__copyright">
           <div className="container">
             <div className="text-center py-4">
-              <p className="mb-0">TorkGo © 2023 | All Rights Reserved</p>
+              <p className="mb-0">DGTLS © 2023 | All Rights Reserved</p>
             </div>
           </div>
         </div>
