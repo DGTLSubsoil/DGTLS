@@ -40,11 +40,6 @@ function Footer() {
                     <FontAwesomeIcon icon={faDiscord} />
                   </Link>
                 </li>
-                <li className="social__item">
-                  <Link href="#" className="social__link">
-                    <FontAwesomeIcon icon={faTwitch} />
-                  </Link>
-                </li>
               </ul>
             </div>
           </div>
