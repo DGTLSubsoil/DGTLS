@@ -10,7 +10,7 @@ function Roadmap() {
         <div className="section-header section-header--middle">
           <div className="section-header__content">
             <div className="section-header__titlebar">
-              <Simple subTitle="Explore" title="Our Roadmap" />
+              <Simple subTitle="Future" title="Our Roadmap" />
             </div>
           </div>
         </div>
@@ -25,15 +25,11 @@ function Roadmap() {
                 <div className="roadmap__item2-inner">
                   <div className="roadmap__item2-content">
                     <div className="roadmap__item2-header">
-                      <h4>Launchpad Initialized</h4>
-                      <p>01</p>
+                      <h4>Basic start</h4>
+                      <p>Q3 2023</p>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
+                    Site launch. Opening social networks. Airdrop for early adopters. Token sale GTL. Start of sales on DEX.
                     </p>
                   </div>
                 </div>
@@ -48,15 +44,11 @@ function Roadmap() {
                 <div className="roadmap__item2-inner">
                   <div className="roadmap__item2-content">
                     <div className="roadmap__item2-header">
-                      <h4>Website Creation</h4>
-                      <p>02</p>
+                      <h4>Progressive development</h4>
+                      <p>Q4 2023</p>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
+                    Staking opening. Opening Farming. Listing on cryptocurrency exchanges.
                     </p>
                   </div>
                 </div>
@@ -71,88 +63,17 @@ function Roadmap() {
                 <div className="roadmap__item2-inner">
                   <div className="roadmap__item2-content">
                     <div className="roadmap__item2-header">
-                      <h4>Seed Sale</h4>
-                      <p>03</p>
+                      <h4>Soon</h4>
+                      <p></p>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
+                    
                     </p>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="col-md-6">
-              <div
-                className="roadmap__item2 ms-auto me-md-4 aos-init aos-animate"
-                data-aos="fade-right"
-                data-aos-duration={800}
-              >
-                <div className="roadmap__item2-inner">
-                  <div className="roadmap__item2-content">
-                    <div className="roadmap__item2-header">
-                      <h4>Torkgo Farming</h4>
-                      <p>04</p>
-                    </div>
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 offset-md-6">
-              <div
-                className="roadmap__item2 ms-auto me-md-4 aos-init aos-animate"
-                data-aos="fade-left"
-                data-aos-duration={800}
-              >
-                <div className="roadmap__item2-inner">
-                  <div className="roadmap__item2-content">
-                    <div className="roadmap__item2-header">
-                      <h4>Stacking Program</h4>
-                      <p>05</p>
-                    </div>
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6">
-              <div
-                className="roadmap__item2 ms-auto me-md-4 aos-init aos-animate"
-                data-aos="fade-right"
-                data-aos-duration={800}
-              >
-                <div className="roadmap__item2-inner">
-                  <div className="roadmap__item2-content">
-                    <div className="roadmap__item2-header">
-                      <h4>Multichain Launchpad</h4>
-                      <p>06</p>
-                    </div>
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Sunt, accusant ium! Dolores maxime numquam animi saepe
-                      sapiente tempora, veritatis velit delectus debitis
-                      provident dolore alias reiciendis cupiditate facere
-                      aliquid iusto inventore!
-                    </p>
-                  </div>
-                </div>
-              </div>
+            
             </div>
           </div>
         </div>
