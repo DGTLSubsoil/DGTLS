@@ -5,7 +5,7 @@ function ProgressBar() {
         className="progress-bar"
         role="progressbar"
         style={{ width: "33.33%" }}
-        aria-valuenow={75}
+        aria-valuenow={25}
         aria-valuemin={0}
         aria-valuemax={100}
       />
