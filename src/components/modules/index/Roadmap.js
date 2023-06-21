@@ -67,7 +67,7 @@ function Roadmap() {
                       <p>Q1 2024</p>
                     </div>
                     <p>
-                    
+                    Big plans for the future!
                     </p>
                   </div>
                 </div>
