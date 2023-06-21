@@ -64,7 +64,7 @@ function Roadmap() {
                   <div className="roadmap__item2-content">
                     <div className="roadmap__item2-header">
                       <h4>Soon</h4>
-                      <p></p>
+                      <p>Q1 2024</p>
                     </div>
                     <p>
                     
