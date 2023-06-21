@@ -9,7 +9,6 @@ import Roadmap from "@/components/modules/index/Roadmap";
 import Token from "@/components/modules/home3/Token";
 SwiperCore.use([Autoplay, Navigation, Pagination]);
 import { fetchData } from "@/apiConfig";
-import ApplyToLaunchTwo from "@/components/common/ApplyToLaunchTwo";
 import Benifits from "@/components/modules/home3/Benifits";
 import Team from "@/components/common/Team";
 // import Team from "@/components/modules/index/Team";
@@ -61,7 +60,6 @@ const Home3 = () => {
       <Token tokenomics={tokenomics} />
       <Roadmap />
       <FAQ />
-      <ApplyToLaunchTwo />
     </>
   );
 };
