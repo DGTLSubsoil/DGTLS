@@ -150,7 +150,7 @@ function Header() {
                       <Link href="#" onClick={toggleActive}>Launch</Link>
                       <ul className="submenu">
                         <li  >
-                          <Link href="/stacking">Stacking<span className="badge bg--secondary-color"> Soon</span></Link>
+                          <Link href="/">Stacking<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
                         <li  > <Link href="/farming">Farming<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
