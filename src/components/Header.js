@@ -147,12 +147,12 @@ function Header() {
                       </ul>
                     </li>
                     <li id="pr-3" className="menu-item-has-children">
-                      <Link href="#" onClick={toggleActive}>Stacking</Link>
+                      <Link href="#" onClick={toggleActive}>Launch</Link>
                       <ul className="submenu">
                         <li  >
-                          <Link href="/stacking">Stacking</Link>
+                          <Link>Stacking<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
-                        <li  > <Link href="/farming">Farming</Link>
+                        <li  > <Link href="/farming">Farming<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
                       </ul>
                     </li>
