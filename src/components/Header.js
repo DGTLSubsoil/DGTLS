@@ -152,7 +152,7 @@ function Header() {
                         <li  >
                           <Link href="">Stacking<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
-                        <li  > <Link href="/home3">Farming<span className="badge bg--secondary-color"> Soon</span></Link>
+                        <li  > <Link href="">Farming<span className="badge bg--secondary-color"> Soon</span></Link>
                         </li>
                       </ul>
                     </li>
