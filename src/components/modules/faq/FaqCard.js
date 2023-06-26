@@ -101,34 +101,23 @@ function FaqCard() {
                 <div className="col-lg-6">
                   <Accordion defaultActiveKey="1">
                     <Accordion.Item eventKey="0">
-                      <Accordion.Header>What is IDO Launching?</Accordion.Header>
+                      <Accordion.Header>What is a DGTLS?</Accordion.Header>
                       <Accordion.Body>
-                        Fundamentally seller sells their currency to gain cash and a buyer buys
-                        expecting hold the currency until value increases in dollar/rupee terms
-                        In mid-August 202 total market value of all cryptocurrency exceeded $2 trillion,
-                        with Bitcoin alone making up 44% of that.
+                      Digital subsoil - monetized minerals - natural resources, which, being in the bowels of the earth, already today bring profit to their owner!
                       </Accordion.Body>
                     </Accordion.Item>
 
 
                     <Accordion.Item eventKey="1">
-                      <Accordion.Header>How can I launch an IDO in Torkgo</Accordion.Header>
+                      <Accordion.Header>What does our project do?</Accordion.Header>
                       <Accordion.Body>
-                        Fundamentally seller sells their currency to gain cash
-                        and a buyer buys expecting hold the currency until
-                        value increases in dollar/rupee terms In mid-August
-                        202 total market value of all cryptocurrency exceeded
-                        $2 trillion, with Bitcoin alone making up 44% of that.
+                      We are a digital project that allows its owners to increase their capital in the green format of Proof of stack without harming the environment and without harming the climate. Each coin is a particle of a mineral resource - the fuel of life! Just as the price of minerals rises around the world, so does the value of the GTL token, as it is a digital piece of minerals!
                       </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="2">
-                      <Accordion.Header>Initial IDO Launching Platforms</Accordion.Header>
+                      <Accordion.Header>What is the main value of the project?</Accordion.Header>
                       <Accordion.Body>
-                        Fundamentally seller sells their currency to gain cash
-                        and a buyer buys expecting hold the currency until
-                        value increases in dollar/rupee terms In mid-August
-                        202 total market value of all cryptocurrency exceeded
-                        $2 trillion, with Bitcoin alone making up 44% of that.
+                      The heart of our project is the GTL token. The GTL token is lithium, osmium, ruthenium and hundreds of other minerals, many of which are already becoming rare. The value of GTL - will increase every day as GTL and rare vanishing metals they both have no emission. 
                       </Accordion.Body>
                     </Accordion.Item>
                   </Accordion>
