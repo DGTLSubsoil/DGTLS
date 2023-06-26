@@ -2,7 +2,6 @@ import SwiperCore, { Autoplay, Navigation, Pagination } from "swiper";
 import { useEffect, useState } from "react";
 import Banner from "./../components/modules/home3/Banner";
 // import Team from "@/components/modules/home3/Team";
-import FAQ from "@/components/modules/home3/Faq";
 import Roadmap from "@/components/modules/index/Roadmap";
 // import Benifits from "@/components/modules/index/Benifits";
 import Token from "@/components/modules/home3/Token";
@@ -57,7 +56,6 @@ const Home3 = () => {
       <Benifits />
       <Token tokenomics={tokenomics} />
       <Roadmap />
-      <FAQ />
     </>
   );
 };
