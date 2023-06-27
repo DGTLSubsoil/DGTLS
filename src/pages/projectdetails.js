@@ -17,7 +17,6 @@ import {
   faFacebookF,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
-import PageHeader from "@/components/base/PageHeader";
 import Link from "next/link";
 
 
