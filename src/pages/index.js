@@ -11,7 +11,6 @@ import Roadmap from "@/components/modules/index/Roadmap";
 import Team from "@/components/modules/index/Team";
 import Wallet from "@/components/Wallet";
 import { fetchData } from "@/apiConfig";
-import ApplyToLaunch from "@/components/common/ApplyToLaunch";
 
 
 
@@ -57,8 +56,6 @@ export default function Home() {
       <Tier />
       <Roadmap />
       <Team team={team} />
-      <ApplyToLaunch />
-      {/* <ApplyToLaunch /> */}
     </>
   );
 }
