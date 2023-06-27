@@ -34,15 +34,15 @@ export default function App({ Component, pageProps }) {
         <meta charSet="UTF-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Torkgo Web 3 Metaverse IDO Launchpad React.js (Next.js) Template</title>
+        <title>DGTLS - Get Total Life</title>
         <meta
           name="title"
-          content="Torkgo — Web 3 Metaverse   IDO  Launchpad  HTML Template"
+          content="DGTLS is a WEB 3.0 crypto project"
         />
-        <meta name="description" content="Torkgo Web 3 Metaverse IDO Launchpad Vue.js (Nuxt.js) Template by TheTork. It is suitable for any kind of IDO,IGO,INO and Metaverse Launchpad." />
-        <meta name="keywords" content="torkgo, web3, ico ino, nft, blockchain,launchpad,ido launchpad, nft launchpad, crypto launchpad, next js, react js, bootstrap 5" />
-        <meta name="author" content="thetork.com" />
-        <meta property="og:image" content="../images/Torkgo-next.png" />
+        <meta name="description" content="We are a digital project that allows its owners to increase their capital in the green format of Proof of stack without harming the environment and without harming the climate." />
+        <meta name="keywords" content="dgtls, web3, ido, nft, blockchain, launchpad, ido launchpad, subsoil, crypto project, stake, farm, exchange" />
+        <meta name="author" content="dgtls.io" />
+        <meta property="og:image" content="../images/dgtls.png" />
 
       </Head>
 
