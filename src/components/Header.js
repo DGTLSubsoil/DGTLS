@@ -101,20 +101,20 @@ function Header() {
             <div className="header-primary d-flex flex-wrap justify-content-between align-items-center">
               <div className="brand-logo d-none d-lg-inline-block">
                 <div className="logo">
-                  <Link href="/home3">
+                  <Link href="/">
                     <Image src="/images/logo/logo.svg" width={150} height={55} alt="logo" />
                   </Link>
                 </div>
               </div>
               <div className="header-wrapper justify-content-lg-end">
-                <div className="mobile-logo d-lg-none"> <Link href="/home3">
+                <div className="mobile-logo d-lg-none"> <Link href="/">
                   <Image src="/images/logo/logo.svg" width={150} height={55} alt="logo" />
                 </Link>
                 </div>
                 <div className="menu-area">
                   <ul id="menu" className={menu ? 'menu active' : 'menu'}>
                   <li  >
-                      <Link href="/home3">Home</Link>
+                      <Link href="/">Home</Link>
                     </li>
                     <li id="pr-2" className="menu-item-has-children">
                       <Link href="#" onClick={toggleActive}>Project</Link>
