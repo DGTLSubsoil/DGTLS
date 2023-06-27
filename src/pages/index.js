@@ -4,9 +4,7 @@ import Featured from "@/components/modules/index/Featured";
 import Upcoming from "@/components/modules/index/Upcoming";
 import Completed from "@/components/modules/index/Completed";
 import Benifits from "@/components/modules/index/Benifits";
-import Tier from "@/components/modules/index/Tier";
 import Roadmap from "@/components/modules/index/Roadmap";
-import Team from "@/components/modules/index/Team";
 import Wallet from "@/components/Wallet";
 import { fetchData } from "@/apiConfig";
 
@@ -49,10 +47,7 @@ export default function Home() {
       <Upcoming data={data} />
       <Completed />
       <Benifits />
-      <Tier />
       <Roadmap />
-      <Team team={team} />
-   
     </>
   );
 }
