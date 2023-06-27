@@ -53,7 +53,11 @@ export default function Home() {
       <Upcoming data={data} />
       <Completed />
       <Benifits />
+      <Tier />
       <Roadmap />
+      <Team team={team} />
+      <ApplyToLaunch />
+      {/* <ApplyToLaunch /> */}
     </>
   );
 }
