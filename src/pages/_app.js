@@ -42,7 +42,7 @@ export default function App({ Component, pageProps }) {
         <meta name="description" content="We are a digital project that allows its owners to increase their capital in the green format of Proof of stack without harming the environment and without harming the climate." />
         <meta name="keywords" content="dgtls, web3, ido, nft, blockchain, launchpad, ido launchpad, subsoil, crypto project, stake, farm, exchange" />
         <meta name="author" content="dgtls.io" />
-        <meta property="og:image" content="../images/dgtls.png" />
+        <meta property="og:image" content="/images/dgtls.png" />
 
       </Head>
 
