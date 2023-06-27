@@ -28,9 +28,9 @@ function Token({ tokenomics }) {
                   </li>
 
                   <li className="token__info-list-item">
-                    <p className="token__info-list-name">Public sale</p>
+                    <p className="token__info-list-name">Advisor</p>
                     <p className="token__info-list-value">
-                      0.025${tokenomics.publicSale}
+                    7.03%{tokenomics.publicSale}
                     </p>
                   </li>
                   <li className="token__info-list-item">
@@ -52,9 +52,9 @@ function Token({ tokenomics }) {
                     </p>
                   </li>
                   <li className="token__info-list-item">
-                    <p className="token__info-list-name">Advisor</p>
+                    <p className="token__info-list-name">Public sale</p>
                     <p className="token__info-list-value">
-                      {tokenomics.advisor}7.03%
+                      {tokenomics.advisor}0.025$
                     </p>
                   </li>
                   <li className="token__info-list-item">
