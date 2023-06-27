@@ -56,8 +56,7 @@ export default function Home() {
       <Tier />
       <Roadmap />
       <Team team={team} />
-      <ApplyToLaunch />
-      {/* <ApplyToLaunch /> */}
+   
     </>
   );
 }
