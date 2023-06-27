@@ -47,15 +47,10 @@ export default function Home() {
   return (
     <>
       <Wallet />
-      <Hero />
-      <Featured data={data} />
-      <Work />
-      <Upcoming data={data} />
-      <Completed />
+      <Banner />
       <Benifits />
-      <Tier />
+      <Token tokenomics={tokenomics} />
       <Roadmap />
-      <Team team={team} />
     </>
   );
 }
