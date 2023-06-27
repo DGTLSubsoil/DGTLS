@@ -1,6 +1,5 @@
 import "../../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 import { useEffect, useState } from "react";
-import Hero from "./../components/modules/index/Hero";
 import Featured from "@/components/modules/index/Featured";
 import Upcoming from "@/components/modules/index/Upcoming";
 import Completed from "@/components/modules/index/Completed";
@@ -46,7 +45,6 @@ export default function Home() {
   return (
     <>
       <Wallet />
-      <Hero />
       <Featured data={data} />
       <Upcoming data={data} />
       <Completed />
