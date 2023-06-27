@@ -17,7 +17,6 @@ import {
   faFacebookF,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
-import ApplyToLaunch from "@/components/common/ApplyToLaunch";
 import PageHeader from "@/components/base/PageHeader";
 import Link from "next/link";
 
@@ -44,7 +43,7 @@ const ProjectDetails = () => {
                         </div>
                         <div className="pro-details__item-content">
                           <h4>
-                            Dexer Xone <span>(Bzon)</span>
+                            DGTLS <span>(GTL)</span>
                           </h4>
                           <p>
                             Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -392,7 +391,6 @@ const ProjectDetails = () => {
         </div>
       </section>
       {/* ================> Project Details end here <================== */}
-      <ApplyToLaunch />
     </>
   );
 };
