@@ -22,7 +22,7 @@ function Footer() {
         <div className="footer__wrapper padding-top padding-bottom">
           <div className="container">
             <div className="footer__content text-center">
-              <Link className="mb-4 d-inline-block" href="/home3">
+              <Link className="mb-4 d-inline-block" href="/">
                 <Image src="/images/logo/logo.svg"
                   width={150}
                   height={55}
