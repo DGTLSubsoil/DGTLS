@@ -5,8 +5,7 @@ import Benifits from "@/components/modules/index/Benifits";
 import Roadmap from "@/components/modules/index/Roadmap";
 import Wallet from "@/components/Wallet";
 import { fetchData } from "@/apiConfig";
-import Token from "@/components/modules/home3/Token";
-SwiperCore.use([Autoplay, Navigation, Pagination]);
+
 
 
 
@@ -37,18 +36,6 @@ export default function Home() {
 
       }
     };
-        getAllData();
-      }, []);
-      useEffect(() => {
-        const getAllData = async () => {
-          try {
-            const response = await fetchData("/tokenomics");
-            setTokenomics(response)
-          } catch (error) {
-
-
-      }
-    };
     getAllData();
   }, []);
 
@@ -56,7 +43,6 @@ export default function Home() {
     <>
       <Banner />
       <Wallet />
-          <Token tokenomics={tokenomics} />
       <Benifits />
       <Roadmap />
     </>
