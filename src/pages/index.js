@@ -34,6 +34,7 @@ export default function Home() {
         const response = await fetchData("/team");
         setTeam(response)
       } catch (error) {
+
       }
     };
         getAllData();
@@ -41,11 +42,10 @@ export default function Home() {
       useEffect(() => {
         const getAllData = async () => {
           try {
-            const response = await fetchData("/notes");
-            setData(response)
+            const response = await fetchData("/tokenomics");
+            setTokenomics(response)
           } catch (error) {
-    
-          }
+
 
       }
     };
