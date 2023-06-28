@@ -42,6 +42,7 @@ export default function Home() {
     <>
       <Banner />
       <Wallet />
+      <Token tokenomics={tokenomics} />
       <Benifits />
       <Roadmap />
     </>
