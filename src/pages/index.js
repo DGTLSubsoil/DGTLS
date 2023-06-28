@@ -1,7 +1,6 @@
 import "../../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 import { useEffect, useState } from "react";
 import Banner from "./../components/modules/home3/Banner";
-import Token from "@/components/modules/home3/Token";
 import Benifits from "@/components/modules/index/Benifits";
 import Roadmap from "@/components/modules/index/Roadmap";
 import Wallet from "@/components/Wallet";
@@ -43,7 +42,6 @@ export default function Home() {
     <>
       <Banner />
       <Wallet />
-      <Token tokenomics={tokenomics} />
       <Benifits />
       <Roadmap />
     </>
