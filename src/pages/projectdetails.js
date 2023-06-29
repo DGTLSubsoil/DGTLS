@@ -23,7 +23,6 @@ import Link from "next/link";
 const ProjectDetails = () => {
   return (
     <>
-      <PageHeader title="Project Details" text="project details" />
       {/* ================> Project Details start here <================== */}
       <section className="pro-details padding-top padding-bottom">
         <div className="container">
