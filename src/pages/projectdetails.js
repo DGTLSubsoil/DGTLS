@@ -89,7 +89,7 @@ const ProjectDetails = () => {
                               Token Sale
                             </h6>
                             <p className="pro-details__info-value">
-                              234,500,000 GTL
+                              2,345,000,000 GTL
                             </p>
                           </div>
                         </div>
@@ -98,7 +98,7 @@ const ProjectDetails = () => {
                             <h6 className="pro-details__info-name">
                             Market Cap after sale
                             </h6>
-                            <p className="pro-details__info-value">50.88M USD</p>
+                            <p className="pro-details__info-value">58.62M USD</p>
                           </div>
                         </div>
                       </div>
