@@ -21,8 +21,8 @@ function Banner() {
                   DGTLS <br /> Your control of the world {" "}
                 </h1>
                 <p>Buy, stake, farm, sell</p>
-                <Link href="/projectdetails" className="default-btn">
-                  <span>Buy GTL</span>
+                <Link href="/" className="default-btn">
+                  <span>Buy GTL (SOON)</span>
                 </Link>
               </div>
             </div>
