@@ -98,7 +98,7 @@ const ProjectDetails = () => {
                             <h6 className="pro-details__info-name">
                             Market Cap after sale
                             </h6>
-                            <p className="pro-details__info-value">5.88M USD</p>
+                            <p className="pro-details__info-value">50.88M USD</p>
                           </div>
                         </div>
                       </div>
