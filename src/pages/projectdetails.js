@@ -44,23 +44,19 @@ const ProjectDetails = () => {
                             DGTLS <span>(GTL)</span>
                           </h4>
                           <p>
-                            Lorem ipsum dolor sit, amet consectetur adipisicing
-                            elit. Repellendus obcaecati quas ex, praesentium
-                            omnis cum, corrupti repudiandae placeat sapiente sit
-                            exercitationem mollitia veniam illum. Autem nobis
-                            aliquid provident illo ad.
+                          In July, you will be able to buy a GTL token for any amount. The project has big development plans so keep an eye on social media and the Roadmap!
                           </p>
                         </div>
                       </div>
                       <div className="btn-group mt-4 d-flex flex-wrap gap-20">
                         <Link
-                          href="/login"
+                          href="/"
                           className="default-btn default-btn--small"
                         >
                           <span>Claim Token</span>
                         </Link>
                         <Link
-                          href="/signup"
+                          href="/"
                           className="default-btn default-btn--small default-btn--secondary"
                         >
                           <span>Register Now</span>
@@ -77,32 +73,32 @@ const ProjectDetails = () => {
                               Total Supply
                             </h6>
                             <p className="pro-details__info-value">
-                              1,000,000,000 Bzon
+                              10,000,000,000 GTL
                             </p>
                           </div>
                         </div>
                         <div className="col-sm-6">
                           <div className="pro-details__info-item">
-                            <h6 className="pro-details__info-name">FDV</h6>
-                            <p className="pro-details__info-value">30M USD</p>
+                            <h6 className="pro-details__info-name">Potencial price</h6>
+                            <p className="pro-details__info-value">0.12 USDT</p>
                           </div>
                         </div>
                         <div className="col-sm-6">
                           <div className="pro-details__info-item">
                             <h6 className="pro-details__info-name">
-                              Initial Supply
+                              Token Sale
                             </h6>
                             <p className="pro-details__info-value">
-                              1,300,000,0 Bzon
+                              234,500,000 GTL
                             </p>
                           </div>
                         </div>
                         <div className="col-sm-6">
                           <div className="pro-details__info-item">
                             <h6 className="pro-details__info-name">
-                              Initial Market Cap
+                            Market Cap after sale
                             </h6>
-                            <p className="pro-details__info-value">6.48M USD</p>
+                            <p className="pro-details__info-value">5.88M USD</p>
                           </div>
                         </div>
                       </div>
