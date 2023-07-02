@@ -54,7 +54,7 @@ function Token({ tokenomics }) {
                   <li className="token__info-list-item">
                     <p className="token__info-list-name">Public sale</p>
                     <p className="token__info-list-value">
-                      {tokenomics.advisor}0.025$
+                      {tokenomics.advisor}0.00777$
                     </p>
                   </li>
                   <li className="token__info-list-item">
