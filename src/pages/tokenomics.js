@@ -28,7 +28,7 @@ const Tokenomics = () => {
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Public sale</p>
-                      <p className="token__info-list-value">$0.024</p>
+                      <p className="token__info-list-value">$0.00777</p>
                     </li>
                     <li className="token__info-list-item">
                       <p className="token__info-list-name">Farming Pool</p>
