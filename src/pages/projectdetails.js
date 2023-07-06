@@ -98,7 +98,7 @@ const ProjectDetails = () => {
                             <h6 className="pro-details__info-name">
                             Market Cap after sale
                             </h6>
-                            <p className="pro-details__info-value">58.62M USD</p>
+                            <p className="pro-details__info-value">18.22M USD</p>
                           </div>
                         </div>
                       </div>
@@ -118,7 +118,7 @@ const ProjectDetails = () => {
                     </div>
                     <div className="pro-details__token-value">
                       <p>
-                        0.25 <sub>USD</sub>
+                        0.00777 <sub>USD</sub>
                       </p>
                     </div>
                   </div>
@@ -132,11 +132,11 @@ const ProjectDetails = () => {
                   <div className="pro-details__token-item d-flex flex-wrap justify-content-between align-items-center gap-40">
                     <div className="pro-details__token-title">
                       <span>$</span>
-                      <h6>Token Price :</h6>
+                      <h6>Price on 2024</h6>
                     </div>
                     <div className="pro-details__token-value">
                       <p>
-                        250000 <sub>USD</sub>
+                        0.04 <sub>USD</sub>
                       </p>
                     </div>
                   </div>
@@ -156,6 +156,7 @@ const ProjectDetails = () => {
                       className="scrollspy-example"
                       tabIndex={0}
                     >
+                      
                       {/* about */}
                       <section id="pro-details-about">
                         <h4>About TorkGo</h4>
