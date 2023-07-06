@@ -156,7 +156,37 @@ const ProjectDetails = () => {
                       className="scrollspy-example"
                       tabIndex={0}
                     >
-                      
+                      // ...
+
+const ProjectDetails = () => {
+  return (
+    <>
+      {/* ================> Project Details start here <================== */}
+      <section className="pro-details padding-top padding-bottom">
+        <div className="container">
+          <div className="pro-details__wrapper">
+            {/* project item */}
+            <div className="pro-details__block mb-4">
+              {/* ... */}
+            </div>
+            {/* token sale */}
+            <div className="pro-details__token-sale mb-5">
+              <h4>Token Sale</h4>
+              <p>Information about token sale goes here...</p>
+            </div>
+            {/* about */}
+            <section id="pro-details-about">
+              {/* ... */}
+            </section>
+            {/* ... */}
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
+
+
                       {/* about */}
                       <section id="pro-details-about">
                         <h4>About TorkGo</h4>
