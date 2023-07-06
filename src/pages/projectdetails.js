@@ -158,8 +158,7 @@ const ProjectDetails = () => {
                     >
                       // ...
 
-const ProjectDetails = () => {
-  return (
+
     <>
       {/* ================> Project Details start here <================== */}
       <section className="pro-details padding-top padding-bottom">
@@ -183,8 +182,7 @@ const ProjectDetails = () => {
         </div>
       </section>
     </>
-  );
-}
+  
 
 
                       {/* about */}
