@@ -103,7 +103,7 @@ function FaqCard() {
                     <Accordion.Item eventKey="0">
                       <Accordion.Header>What is a DGTLS?</Accordion.Header>
                       <Accordion.Body>
-                      Digital subsoil - monetized minerals - natural resources, which, being in the bowels of the earth, already today bring profit to their owner!
+                      Digital subsoil - monetized minerals - natural resources, which, being in the bowels of the earth, already today bring profit to their owner.
                       </Accordion.Body>
                     </Accordion.Item>
 
@@ -111,7 +111,7 @@ function FaqCard() {
                     <Accordion.Item eventKey="1">
                       <Accordion.Header>What does our project do?</Accordion.Header>
                       <Accordion.Body>
-                      We are a digital project that allows its owners to increase their capital in the green format of Proof of stack without harming the environment and without harming the climate. Each coin is a particle of a mineral resource - the fuel of life! Just as the price of minerals rises around the world, so does the value of the GTL token, as it is a digital piece of minerals!
+                      We are a digital project that allows its owners to increase their capital in the green format of Proof of stack without harming the environment and without harming the climate. Each coin is a particle of a mineral resource - the fuel of life! Just as the price of minerals rises around the world, so does the value of the GTL token, as it is a digital piece of minerals.
                       </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="2">
